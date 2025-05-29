@@ -37,8 +37,8 @@ body {
 }
 
 .formAlta {
-    display: flex!important;
-    flex-direction: column!important;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Diseños responsives */
