@@ -36,11 +36,6 @@ body {
     margin-top: 1rem;
 }
 
-.formAlta {
-    display: flex!important;
-    flex-direction: column!important;
-}
-
 /* Diseños responsives */
 @media (min-width: 720px) {
     body {
